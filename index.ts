@@ -4,6 +4,7 @@ let Name = "Haris";
 let subscribers = 30_000;
 
 //Defining Types (Explicit Types)
+//
 
 let userName: string = "Haristiks";
 let count: number = 123;
